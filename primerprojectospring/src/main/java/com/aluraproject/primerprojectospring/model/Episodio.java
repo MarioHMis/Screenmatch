@@ -1,7 +1,5 @@
-package com.aluraproject.primerprojectospring.Service;
+package com.aluraproject.primerprojectospring.model;
 
-
-import com.aluraproject.primerprojectospring.model.DatosEpisodio;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
